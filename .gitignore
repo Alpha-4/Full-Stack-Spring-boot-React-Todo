@@ -1,0 +1,33 @@
+/01-rest-api-starting-code/target/**
+/01-rest-api-starting-code/.idea/**
+/01-rest-api-starting-code/.settings/**
+/01-rest-api-starting-code/.classpath
+/01-rest-api-starting-code/.project
+/01-rest-api-starting-code/.DS_Store
+/01-rest-api-starting-code/*.iml
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/my-todo-app/node_modules
+/my-todo-app/.pnp
+/my-todo-app.pnp.js
+
+# testing
+/my-todo-app/coverage
+
+# production
+/my-todo-app/dist/
+/my-todo-app/build
+
+# misc
+/my-todo-app.DS_Store
+/my-todo-app.env.local
+/my-todo-app.env.development.local
+/my-todo-app.env.test.local
+/my-todo-app.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
